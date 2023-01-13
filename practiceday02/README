@@ -1,0 +1,1 @@
+1.	A web application for an online retailer that allows customers to browse and purchase products. The application would use Spring to handle the business logic, form validation to ensure that customers enter their billing and shipping information correctly, and session management to keep track of customers' shopping carts and orders. 
